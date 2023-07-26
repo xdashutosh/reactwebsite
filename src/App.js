@@ -4,7 +4,6 @@ import './styles/home.scss';
 import './styles/contact.scss';
 import './styles/footer.scss';
 import './styles/service.scss';
-import './styles/mediaquery.scss';
 import Header from './components/Header';
 import Home from './components/Home';
 import Contact from './components/Contact';
